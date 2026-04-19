@@ -45,6 +45,7 @@ promedio de **0.72 puntos porcentuales**.
 ├── report/             # Informe final en PDF
 ├── images/             # Visualizaciones generadas
 └── requirements.txt    # Dependencias del proyecto
+```
 
 ---
 
@@ -55,6 +56,7 @@ Datos INEC-ENEMDU ───┐
 Banco Mundial ───────┼──► Limpieza y EDA ──► Dashboard Power BI
 BCE ─────────────────┘         │
 └──► Modelo ML ──► Proyecciones 2025
+```
 
 ---
 
