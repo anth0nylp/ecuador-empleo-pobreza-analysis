@@ -36,6 +36,7 @@ promedio de **0.72 puntos porcentuales**.
 
 ## 📁 Estructura del proyecto
 
+```text
 ├── data/
 │   ├── processed/      # Datasets limpios listos para análisis
 │   └── external/       # Datos complementarios
@@ -49,7 +50,8 @@ promedio de **0.72 puntos porcentuales**.
 
 ## 🗺️ Pipeline del proyecto
 
-Datos INEC-ENEMDU ──┐
+```text
+Datos INEC-ENEMDU ───┐
 Banco Mundial ───────┼──► Limpieza y EDA ──► Dashboard Power BI
 BCE ─────────────────┘         │
 └──► Modelo ML ──► Proyecciones 2025
@@ -115,7 +117,7 @@ BCE ─────────────────┘         │
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU-USUARIO/ecuador-empleo-pobreza-analysis.git
+git clone https://github.com/anthonylopez-dev/ecuador-empleo-pobreza-analysis.git
 cd ecuador-empleo-pobreza-analysis
 
 # Instalar dependencias
@@ -141,8 +143,8 @@ pip install -r requirements.txt
 
 **Bryan Anthony López Guerrero**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/TU-PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/anthonylpz)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/anthonylopez-dev)
 
 Ingeniero en Tecnologías de la Información | Máster en Visual Analytics y Big Data |
 Especialista en Big Data e Inteligencia Artificial
